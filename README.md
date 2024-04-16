@@ -1,1 +1,2 @@
-The above project is a fun history project that can be used to intrigue children into learning history
+My app takes the input age that the user enters and maches it with a historical figure who passed away at that age.
+
